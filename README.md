@@ -1,4 +1,4 @@
-![Design-pattern-banner](images/design-pattern-banner.png)
+![Design-pattern-banner](https://firebasestorage.googleapis.com/v0/b/netflix-clone-90235.appspot.com/o/design-pattern-banner.png?alt=media&token=cb35c906-318f-48ab-9649-8118a80df9b2)
 
 ***
 
