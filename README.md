@@ -23,9 +23,20 @@ Being a software engineer you are expected to build software that makes sense.
 
 🎱 It makes code reusable.
 
-🎱 It makes a code bug-free, and clean
+🎱 It makes a code bug-free, and clean.
 
 🎱 Easy to change as requirement changes.
 
 🎱 Code becomes modular.
+
+🩸 Classification of Design Patterns
+====================================
+🎱 Creational
+
+🎱 Structural
+
+🎱 Behavioral
+
+
+
 
