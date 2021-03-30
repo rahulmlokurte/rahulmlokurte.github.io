@@ -31,11 +31,11 @@ Being a software engineer you are expected to build software that makes sense.
 
 🩸 Classification of Design Patterns
 ====================================
-🎱 [Creational](#Creational Design Patterns)
+🎱 [Creational](#-creational-design-patterns)
 
-🎱 [Structural](#Structural-design-patterns)
+🎱 [Structural](#-structural-design-patterns)
 
-🎱 [Behavioral](#Behavioral-design-patterns)
+🎱 [Behavioral](#-behavioral-design-patterns)
 
 🩸 Creational Design Patterns
 =============================
